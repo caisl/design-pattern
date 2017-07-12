@@ -16,14 +16,14 @@ public class Singleton {
 
     }
 
-/*    public static Singleton getIntance(){
+    public static Singleton getIntance(){
         if(instance == null){
             synchronized (instance) {
                 instance = new Singleton();
             }
         }
         return instance;
-    }*/
+    }
 
     private static class SingletonFactory{
         private static Singleton instance = new Singleton();
