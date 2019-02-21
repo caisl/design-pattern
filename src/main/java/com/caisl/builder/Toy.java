@@ -1,6 +1,4 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package com.caisl.builder;
 
 import java.util.ArrayList;
@@ -8,7 +6,7 @@ import java.util.ArrayList;
 /**
  * Toy
  *
- * @author shinan
+ * @author caisl
  * @since 2017-04-27
  */
 public class Toy {

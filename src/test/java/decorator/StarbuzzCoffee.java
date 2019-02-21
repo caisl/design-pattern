@@ -1,6 +1,4 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package decorator;
 
 import com.caisl.decorator.Beverage;
@@ -11,7 +9,7 @@ import com.caisl.decorator.Mocha;
 /**
  * StarbuzzCoffee
  *
- * @author shinan
+ * @author caisl
  * @since 2017-04-26
  */
 public class StarbuzzCoffee {

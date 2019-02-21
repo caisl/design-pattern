@@ -1,12 +1,10 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package com.caisl.singleton;
 
 /**
  * EagerSingleton
  *
- * @author shinan
+ * @author caisl
  * @desc 饿汉单例类
  * @since 2017-07-12
  */

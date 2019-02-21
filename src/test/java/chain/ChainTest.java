@@ -1,6 +1,4 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package chain;
 
 import com.caisl.chain.MyHandler;
@@ -8,7 +6,7 @@ import com.caisl.chain.MyHandler;
 /**
  * ChainTest
  *
- * @author shinan
+ * @author caisl
  * @since 2017-05-03
  */
 public class ChainTest {

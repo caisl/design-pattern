@@ -1,6 +1,4 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package adapter;
 
 import com.caisl.adapter.Adapter;
@@ -14,7 +12,7 @@ import com.caisl.adapter.inter.Sourceable;
 /**
  * AdapterTest
  *
- * @author shinan
+ * @author caisl
  * @since 2017-05-02
  */
 public class AdapterTest {

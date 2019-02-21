@@ -1,12 +1,10 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package com.caisl.mediator;
 
 /**
  * ConcreteColleagueA
  *
- * @author shinan
+ * @author caisl
  * @since 2017-07-17
  */
 public class ConcreteColleagueA extends Colleague {

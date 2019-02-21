@@ -1,6 +1,4 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package command;
 
 import com.caisl.command.Light;
@@ -10,7 +8,7 @@ import com.caisl.command.SimpleRemoteControl;
 /**
  * RemoteControlTest
  *
- * @author shinan
+ * @author caisl
  * @since 2017-05-11
  */
 public class RemoteControlTest {
@@ -19,7 +17,7 @@ public class RemoteControlTest {
         Light light = new Light();
         LightOnCommand lightOnCommand = new LightOnCommand(light);
 
-        remote.setCommond(lightOnCommand);
+        remote.setCommand(lightOnCommand);
         remote.buttonWasPressed();
     }
 }

@@ -1,19 +1,17 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 package com.caisl.command;
 
 /**
  * SimpleRemoteControl
  *
- * @author shinan
+ * @author caisl
  * @since 2017-05-11
  */
 public class SimpleRemoteControl {
     Command slot;
 
     public SimpleRemoteControl(){}
-    public void setCommond(Command command){
+    public void setCommand(Command command){
         slot = command;
     }
 

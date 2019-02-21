@@ -1,13 +1,11 @@
-/*
- * Copyright (C) 2009-2017 Hangzhou 2Dfire Technology Co., Ltd.All rights reserved
- */
+
 
 import com.caisl.bridge.*;
 
 /**
  * BridgeTest
  *
- * @author shinan
+ * @author caisl
  * @since 2017-05-03
  */
 public class BridgeTest {
